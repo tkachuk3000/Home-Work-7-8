@@ -1,0 +1,86 @@
+
+@media (max-width: 768px) {
+	.wrap{
+        width: 768px;
+	}
+    .menu {
+        width: 100%;
+        float: left;
+        margin-left: 0;
+        margin-top: 145px;
+    }
+    .submenu{
+	   margin-left: 0;
+        margin-right: 6%;
+    }
+    .it_will_make{
+    	font-size: 20px;
+    }
+    .art_text{
+    	width: 275px;
+    	height: 100px;
+    	overflow: hidden;
+    }
+    .article{
+    	top: 377px;
+    	left: 30px;
+    }
+    .ipfone{
+    	left: 495px;
+    }
+    .ipfone_copy{
+    	left: 405px;
+    }
+    .shape{
+    	left: 553px;
+    }
+    .about_company{
+    	top: 883px;
+    }
+    .about_company_1{
+    	width: 200px;
+    }
+    .about_company_2{
+        width: 200px;	
+    }
+    .about_company_3{
+        width: 200px;	
+    }
+    .box_1{
+    	width: 315px;
+    }
+    .box_2{
+    	left: 322px;
+    	width: 412px;
+    }
+    .logo-tips{
+    	width: 96%;
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .logo-tips_img {
+    	margin-right: 6%;
+	}
+    .about_us_into{
+    	width: 26%;
+    }
+    footer{
+        top: 2220px;
+    }
+    .menu-footer {
+        width: 100%;
+
+    }
+    .submenu-footer{
+        margin-left: 2%;
+        margin-right: 2%;
+    }
+    .submenu-footer-li_1{
+        margin-left: 0;
+    }
+    .end{
+        position: absolute;
+        top: 44px;
+        left: 541px;
+    }
+}   

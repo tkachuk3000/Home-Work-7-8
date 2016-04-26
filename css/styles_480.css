@@ -1,0 +1,184 @@
+@media (max-width: 480px) {
+	.wrap{
+		width: 480px;
+	}
+	.logo{
+		position: absolute;
+		top: 70px;
+		left: 167px;
+    }
+	.menu {
+		width: 246px;
+        height: 262px;
+        position: absolute;
+        z-index: 15;
+        top: -20px;
+        left: 100px;
+        background-color: rgba(61,48,70,0.8);
+		border: 1px solid black;
+        border-radius: 10px;
+    }
+    .submenu{
+    	display: block;
+  		padding-top: 9px;
+  		padding-bottom: 8px;
+    	width: 235px;
+		text-align: center;
+		margin-left: 6px;
+		border-bottom: 2px solid #523e5a;
+	}
+	.submenu:hover{
+		width: 100%;
+		margin-left: 0;
+		background-color: rgba(00,00,00,0.4);
+		border-bottom: 2px solid #edbfff;
+	}
+    .submenu_a{
+    	text-shadow: none;
+	}
+    .submenu_a:hover{
+    	text-decoration: underline;
+    	color: #edbfff; 
+    }
+	.scrol{
+        top: 205px;
+        height: 245px;
+    }
+    .ipfone{
+    	top: 192px;
+        left: 291px;
+    	height: 285px;
+    }
+    .ipfone_copy{
+    	top: 241px;
+        left: 242px;
+    	height: 188px;
+    }
+    .shape{
+        top: 296px;
+        left: 335px;
+    	height: 50px;
+    }
+    .article{
+    	left: 25px;
+    	top: 300px;
+    }
+    .lorem{
+    	font-size: 30px;
+    	margin-bottom: 3px;
+    }
+    .it_will_make{
+    	font-size: 17px;
+    }
+    .art_text{
+    	display: none;
+    }
+    .about_company {
+    	top: 626px;
+    	height: 600px;
+    	margin-left: 13px;
+	}
+	.about_company_1{
+		display: block;
+		width: 420px;
+		margin-bottom: 25px;
+	}
+	.about_company_2{
+		display: block;
+		width: 420px;
+		margin-left: 0px;
+		margin-bottom: 25px;
+	}
+	.about_company_3{
+		display: block;
+		width: 420px;
+		margin-left: 0px;
+	}
+	.arti {
+    	margin-top: 4px;
+    	line-height: 20px;
+    }
+    .box_1 {
+    	top: 1217px;
+    	left: 32px;
+    	height: 260px;
+    	width: 398px;
+    }
+	.box_2 {
+		top: 1522px;
+    	left: 5px;
+    	width: 390px;
+	}
+	.logo-tips {
+		top: 1945px;
+    	width: 90%;
+    	margin-left: 5%;
+    	margin-right: 5%;
+	}
+	.logo-tips_img {
+		margin-top: 23px;
+    	margin-right: 11%;
+	}
+	.about_us {
+		overflow: visible;
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;  
+		top: 2247px;
+		height: 500px;
+	}
+	.copyright{
+		display: none;
+	}
+	.about_us_into {
+		display: block;
+    	width: 90%;
+    	height: 120px;
+	}
+	.about_us_into-2 {
+    	margin: 60px 0 60px 0;
+    }
+	.info {
+		overflow: hidden;
+		height: 86px;
+		line-height: 23px;
+	}
+	footer {
+    	top: 2868px;
+	}
+	.menu-footer {
+        width: 90%;
+        margin-left: 4%;
+	}
+	.submenu-footer {
+    	margin-left: 1%;
+    	margin-right: 1%;
+	}
+    .end {
+		top: 44px;
+		left: 141px;
+	}
+	.line_1{
+		height: 598px;
+		top: 548px;
+	}
+	.line_2{
+		top: 1145px;
+		height: 785px;
+	}
+	.line_3{
+		top: 1932px;
+		height: 232px;	
+	}
+    .line_4 {
+    	top: 2165px;
+		height: 668px;	
+    }
+    .line_5{
+    	top: 2833px;
+		height: 120px;
+		background-position: top center;
+		background-repeat: no-repeat;
+    }
+
+}
