@@ -1,4 +1,4 @@
-@media (max-width: 650px) {
+@media (max-width: 580px) {
 	.wrap{
 		width: 480px;
 	}
@@ -8,53 +8,37 @@
 		left: 167px;
     }
 	.menu {
-		width: 0px;
-        height: 0px;
+		width: 246px;
+        height: 262px;
         position: absolute;
         z-index: 15;
         top: -20px;
-        left: 199px;
+        left: 100px;
         background-color: rgba(61,48,70,0.8);
-		text-align: center;
+		border: 1px solid black;
         border-radius: 10px;
-	}
-    
-    #home{
-    	display: block;
     }
-    
-    .menu:hover{
-    	width: 246px;
-    	height: 262px;
-    	top: -21px;
-    	left: 100px;
-    	border: 1px solid black;
-    }
-    .menu:hover .submenu{
-    	display: block;
-    	border-bottom: 2px solid #523e5a;
-    }
-
     .submenu{
-    	display: none;
+    	display: block;
   		padding-top: 9px;
   		padding-bottom: 8px;
+    	width: 235px;
+		text-align: center;
 		margin-left: 6px;
-		margin-right: 6px;
+		border-bottom: 2px solid #523e5a;
 	}
 	.submenu:hover{
+	
+		width: 100%;
 		margin-left: 0;
-		margin-right: 0;
 		background-color: rgba(00,00,00,0.4);
 		border-bottom: 2px solid #edbfff;
 	}
     .submenu_a{
     	text-shadow: none;
 	}
-	.submenu_home{
-		text-decoration: underline; 
-	}
     .submenu_a:hover{
+    	text-decoration: underline;
     	color: #edbfff; 
     }
 	.scrol{

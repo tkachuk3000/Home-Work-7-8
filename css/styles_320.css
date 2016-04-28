@@ -1,0 +1,123 @@
+@media (max-width: 479px) {
+	.wrap{
+		width: 320px;
+	}
+	.logo{
+		position: absolute;
+		top: 68px;
+		left: 85px;
+    }
+    .menu{
+    	top: -20px;
+    	left: 113px;
+    }
+    .menu:hover{
+    	width: 220px;
+    	height: 262px;
+    	top: -21px;
+    	left: 27px;
+    	border: 1px solid black;
+    }
+    .scrol{
+    	display: none;
+    }
+    .ipfone{
+    	display: none;
+    }
+    .ipfone_copy{
+    	display: none;
+    }
+    .shape{
+    	display: none;
+    }
+    .article{
+    	left: 25px;
+    	top: 300px;
+    }
+
+
+    .about_company_1{
+    	height: 130px;
+    	width: 260px;
+    }
+    .about_company_2{
+    	height: 130px;
+    	width: 260px;
+    }
+    .about_company_3{
+    	height: 130px;
+    	width: 260px;
+    }
+    .box_1{
+    	top: 1217px;
+    	left: 15px;
+    	height: 270px;
+    	width: 260px;
+    }
+    .art_text_2{
+    	overflow: hidden;
+    	height: 160px;
+    }
+    .box_2{
+    	top: 1522px;
+    	left: 5px;
+    	height: 260px;
+    	width: 280px;
+    }
+    .recent_updates{
+    	margin-left: 4%;
+    }
+    .posted_by {
+    	overflow: hidden;
+    	height: 20px;
+    	line-height: 20px;
+    }
+    .logo-tips {
+    	left: 26px;
+		top: 1924px;
+    	width: 90%;
+    	margin-left: 5%;
+    	margin-right: 5%;
+	}
+	.logo-tips_img {
+		margin-top: 61px;
+    	margin-right: 11%;
+	}
+	.img-rvca{
+		position: absolute;
+		top: 264px;
+		left: -17px;
+	}
+    .img-vonzipper{
+		position: absolute;
+		top: 245px;
+		left: 104px;
+	}
+	.arti{
+    	height: 63px;
+    	overflow: hidden;
+    }
+    .about_us{
+    	display: none;
+    }
+    footer {
+    	top: 2365px;
+	}
+    .menu-footer {
+    	display: none;
+    }
+    
+    .end {
+    	top: 45px;
+    	left: 49px;
+	}
+    .line_3 {
+    	top: 1932px;
+        height: 420px;
+    }
+    .line_4 {
+    	display: none;
+    }
+    .line_5 {
+    top: 2353px;
+}
